@@ -2,15 +2,15 @@
   "name": "wather",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Mamdouh-Helmy.github.io/Wather-App-React",
+  "homepage": "https://Mamdouh-Helmy.github.io/test",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run bulid",
-    "deploy": "gh-pages -d bulid"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
