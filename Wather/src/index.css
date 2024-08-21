@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #B5D6D6;
+    color: #474747;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
