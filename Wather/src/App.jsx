@@ -96,7 +96,7 @@ function App() {
       <div className="clouds"></div>
       <div className="days">
         <div className="day">
-          <span className="pre" onClick={() => fetchWeather(2)}>Yesterday</span>
+          <span className="pre" onClick={() => fetchWeather(2)}>After Tomorrow</span>
           <span className="today" onClick={() => fetchWeather(0)}>Today</span>
           <span className="next" onClick={() => fetchWeather(1)}>Tomorrow</span>
         </div>
