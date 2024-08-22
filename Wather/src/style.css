@@ -70,6 +70,7 @@
             align-items: center;
             justify-content: space-between;
             cursor: pointer;
+            padding: 0 20px;
             span {
                 position: relative;
                 &:first-child::before {
