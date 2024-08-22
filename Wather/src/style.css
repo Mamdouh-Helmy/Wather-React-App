@@ -83,7 +83,7 @@
                     font-weight: bolder;
                     font-size: 20px;
                     left: -30px;
-                    top: 2%;
+                    top: 30%;
                 }
                 &:nth-child(2)::before {
                     content: "";
@@ -110,7 +110,7 @@
                     font-weight: bolder;
                     font-size: 20px;
                     right: -30px;
-                    top: 9%;
+                    top: 20%;
                 }
                 @media (max-width: 767px){
                     &:last-child::before{
